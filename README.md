@@ -7,9 +7,9 @@ It exists I guess?
 Socials:
 - <https://bsky.app/profile/nullcube.net>
 - <https://tech.lgbt/@nullcube>
-- <https://twitter.com/NullCube_>
-- <https://github.com/NullCub3>
+- <https://twitter.com/nullcubee>
+- <https://github.com/nullcubee>
 
 ---
 
-[Source](https://github.com/NullCub3/nullcube.github.io)
+[Source](https://github.com/nullcubee/nullcubee.github.io)
